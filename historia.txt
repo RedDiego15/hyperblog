@@ -1,5 +1,6 @@
 esta es la historia de diego rojas
 
-tiene 21 anios y nacio en ecuador
+tiene 19 anios y nacio en ecuador,
+viviendo en todas las regiones del ecuador
 
 hou hbalamos de practicar git
